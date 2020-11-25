@@ -1,2 +1,4 @@
 # The one where you are one of them
-### Over
+### Overview
+
+The idea for this project was to create a 
