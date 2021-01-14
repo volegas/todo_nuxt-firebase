@@ -5,4 +5,4 @@ The idea for this project was to create a chat application where you have your w
 Have your words twisted and take the group conversation in a completely unanticipated direction.
 
 I started off with basing the chats on a more "friends" show style conversation. Because ofcourse 10 seasons weren't enough.
-I scraped the friends transcripts 
+I scraped the friends transcripts from [here](https://fangj.github.io/friends/) usi
