@@ -6,4 +6,6 @@ Have your words twisted and take the group conversation in a completely unantici
 
 I started off with basing the chats on a more "friends" show style conversation. Because ofcourse 10 seasons weren't enough.
 I scraped the friends transcripts from [here](https://fangj.github.io/friends/) using cheerio. 
-And trained a new model on
+And trained a new model on RunwayML on those transcripts. 
+
+Going futher,
