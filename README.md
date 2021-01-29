@@ -8,4 +8,4 @@ I started off with basing the chats on a more "friends" show style conversation.
 I scraped the friends transcripts from [here](https://fangj.github.io/friends/) using cheerio. 
 And trained a new model on RunwayML on those transcripts. 
 
-Going futher, I do plan to replicate the same experience with other shows too. Where the users can choose which ki
+Going futher, I do plan to replicate the same experience with other shows too. Where the users can choose which kind of conversation they would like to be a pa
