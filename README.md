@@ -14,4 +14,6 @@ Going futher, I do plan to replicate the same experience with other shows too. W
 <pre>
       Try out the chat <a href="https://goofy-panini-b0b245.netlify.app"> here </a>
 </pre>
-- Set a topic for the chat and invite your f
+- Set a topic for the chat and invite your friends by sharing the link
+
+##### It works something like this. 
