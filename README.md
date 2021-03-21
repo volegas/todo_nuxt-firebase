@@ -17,4 +17,5 @@ Going futher, I do plan to replicate the same experience with other shows too. W
 - Set a topic for the chat and invite your friends by sharing the link
 
 ##### It works something like this. 
-      Eg: I gave it a prompt of Joey sayi
+      Eg: I gave it a prompt of Joey saying "I am not feeling well today."
+<img
