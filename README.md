@@ -18,4 +18,4 @@ Going futher, I do plan to replicate the same experience with other shows too. W
 
 ##### It works something like this. 
       Eg: I gave it a prompt of Joey saying "I am not feeling well today."
-<img
+<img src="https://user-images.githubusercontent.com/1265
