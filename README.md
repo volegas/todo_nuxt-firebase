@@ -20,3 +20,6 @@ Going futher, I do plan to replicate the same experience with other shows too. W
       Eg: I gave it a prompt of Joey saying "I am not feeling well today."
 <img src="https://user-images.githubusercontent.com/12654691/105054311-d94be000-5a3f-11eb-934f-970524f90dea.png"></img>
 Once I hosted the model, I could communicate with it via it's REST API. 
+
+### How it works 
+- The person initia
