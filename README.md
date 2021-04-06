@@ -22,4 +22,5 @@ Going futher, I do plan to replicate the same experience with other shows too. W
 Once I hosted the model, I could communicate with it via it's REST API. 
 
 ### How it works 
-- The person initiating the chat sets the topic for the ch
+- The person initiating the chat sets the topic for the chat eg: "The one where __________"
+- The 
