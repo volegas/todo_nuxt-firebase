@@ -24,4 +24,5 @@ Once I hosted the model, I could communicate with it via it's REST API.
 ### How it works 
 - The person initiating the chat sets the topic for the chat eg: "The one where __________"
 - The host then invites other friends using the link. 
-- They all land on a screen where they are asked to choose the character which would twist their words and also enter 
+- They all land on a screen where they are asked to choose the character which would twist their words and also enter their own name. 
+- Let the twisted chat beg
