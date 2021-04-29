@@ -28,4 +28,4 @@ Once I hosted the model, I could communicate with it via it's REST API.
 - Let the twisted chat begin. 
 
 Behind the scenes 
-- If a user calle
+- If a user called "Mary" has picked "Monica" all h
