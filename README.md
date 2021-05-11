@@ -29,4 +29,4 @@ Once I hosted the model, I could communicate with it via it's REST API.
 
 Behind the scenes 
 - If a user called "Mary" has picked "Monica" all her texts will be redone by monica. 
-- Before s
+- Before sending the prompt to runway the server repla
