@@ -31,4 +31,5 @@ Behind the scenes
 - If a user called "Mary" has picked "Monica" all her texts will be redone by monica. 
 - Before sending the prompt to runway the server replaces all the personal names with the respective character names.
 Eg: If another user Tom picked Joey
-"Mary: I hate Tom and Tom's cat" becomes "Monica: I hate Joey and Joey's cat" whe
+"Mary: I hate Tom and Tom's cat" becomes "Monica: I hate Joey and Joey's cat" where Tom has picked Joey. 
+- The respon
