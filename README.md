@@ -32,4 +32,4 @@ Behind the scenes
 - Before sending the prompt to runway the server replaces all the personal names with the respective character names.
 Eg: If another user Tom picked Joey
 "Mary: I hate Tom and Tom's cat" becomes "Monica: I hate Joey and Joey's cat" where Tom has picked Joey. 
-- The respon
+- The response from runway is modified in the opposite way. ie
