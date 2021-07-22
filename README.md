@@ -33,4 +33,4 @@ Behind the scenes
 Eg: If another user Tom picked Joey
 "Mary: I hate Tom and Tom's cat" becomes "Monica: I hate Joey and Joey's cat" where Tom has picked Joey. 
 - The response from runway is modified in the opposite way. ie replacing character names with the respective users before it gets sents to all the clients. 
-eg:  "Monica: I hate Joey and Joey's
+eg:  "Monica: I hate Joey and Joey's cat" becomes "Mary: I hate Tom and Tom's cat" 
