@@ -35,4 +35,5 @@ Eg: If another user Tom picked Joey
 - The response from runway is modified in the opposite way. ie replacing character names with the respective users before it gets sents to all the clients. 
 eg:  "Monica: I hate Joey and Joey's cat" becomes "Mary: I hate Tom and Tom's cat" becomes
     
-### Making the chat applicatio
+### Making the chat application 
+    - The server for the app is made using 
