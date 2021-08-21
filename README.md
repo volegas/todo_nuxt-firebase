@@ -36,4 +36,5 @@ Eg: If another user Tom picked Joey
 eg:  "Monica: I hate Joey and Joey's cat" becomes "Mary: I hate Tom and Tom's cat" becomes
     
 ### Making the chat application 
-    - The server for the app is made using 
+    - The server for the app is made using NodeJS and SocketIO
+    - The client
