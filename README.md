@@ -39,3 +39,4 @@ eg:  "Monica: I hate Joey and Joey's cat" becomes "Mary: I hate Tom and Tom's ca
     - The server for the app is made using NodeJS and SocketIO
     - The client is made on VueJS and the routing is handled by vue-router
 #### The chatrooms 
+The server maintains a reference to all chat roo
