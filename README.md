@@ -40,4 +40,8 @@ eg:  "Monica: I hate Joey and Joey's cat" becomes "Mary: I hate Tom and Tom's ca
     - The client is made on VueJS and the routing is handled by vue-router
 #### The chatrooms 
 The server maintains a reference to all chat rooms. 
-A Chatroom has the following st
+A Chatroom has the following structure 
+<pre>
+|-- Topic
+|-- Messages
+|     |- [{
