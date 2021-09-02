@@ -46,4 +46,5 @@ A Chatroom has the following structure
 |-- Messages
 |     |- [{
 |           user:'Tom',
-|    
+|           character:'Joey',
+|           message:
