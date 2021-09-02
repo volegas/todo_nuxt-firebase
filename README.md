@@ -45,3 +45,5 @@ A Chatroom has the following structure
 |-- Topic
 |-- Messages
 |     |- [{
+|           user:'Tom',
+|    
