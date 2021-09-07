@@ -50,4 +50,6 @@ A Chatroom has the following structure
 |           message:'Hi'
 |         }]
 |- onlineUsers
-|    
+|     |- [{
+|           socket:
+|        
