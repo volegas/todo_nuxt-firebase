@@ -52,4 +52,6 @@ A Chatroom has the following structure
 |- onlineUsers
 |     |- [{
 |           socket:
-|        
+|           user:'Tom',
+|           character:'Joey'
+|  
