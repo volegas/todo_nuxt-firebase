@@ -54,4 +54,6 @@ A Chatroom has the following structure
 |           socket:
 |           user:'Tom',
 |           character:'Joey'
-|  
+|         }]
+</pre>
+It communicates with th
