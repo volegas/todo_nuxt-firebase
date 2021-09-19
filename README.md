@@ -56,4 +56,9 @@ A Chatroom has the following structure
 |           character:'Joey'
 |         }]
 </pre>
-It communicates with th
+It communicates with the sockets and runway
+
+
+## Project setup
+```
+npm inst
