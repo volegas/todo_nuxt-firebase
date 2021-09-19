@@ -64,4 +64,9 @@ It communicates with the sockets and runway
 npm install
 ```
 
-### Compiles and hot-reloads for deve
+### Compiles and hot-reloads for development
+```
+npm run serve
+```
+
+### 
