@@ -61,4 +61,7 @@ It communicates with the sockets and runway
 
 ## Project setup
 ```
-npm inst
+npm install
+```
+
+### Compiles and hot-reloads for deve
