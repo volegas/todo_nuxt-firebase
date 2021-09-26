@@ -74,4 +74,9 @@ npm run serve
 npm run build
 ```
 
-### Lints and fixes fi
+### Lints and fixes files
+```
+npm run lint
+```
+
+### Customize con
