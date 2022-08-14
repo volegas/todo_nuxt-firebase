@@ -10,4 +10,5 @@
   "dependencies": {
     "bootstrap": "^4.5.3",
     "core-js": "^3.6.5",
-    "exp
+    "express": "^4.17.1",
+    "jquery": "^3.5.1"
