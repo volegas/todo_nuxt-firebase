@@ -13,4 +13,5 @@
     "express": "^4.17.1",
     "jquery": "^3.5.1",
     "popper.js": "^1.16.1",
-    "socket.io": "
+    "socket.io": "^3.0.5",
+    "socket.io-client": "^3.0
