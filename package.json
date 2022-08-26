@@ -29,4 +29,7 @@
   "eslintConfig": {
     "root": true,
     "env": {
-      "node": t
+      "node": true
+    },
+    "extends": [
+      "plugin:vue/essenti
