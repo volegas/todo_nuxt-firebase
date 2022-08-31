@@ -1,2 +1,3 @@
 <template>
-  <div id="app" class="container-flui
+  <div id="app" class="container-fluid">
+    <div class="container-fluid
