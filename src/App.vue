@@ -10,4 +10,6 @@
   </div>
 </template>
 
-<script
+<script>
+import Entry from './components/entry.vue'
+im
