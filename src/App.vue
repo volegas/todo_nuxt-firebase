@@ -15,4 +15,7 @@ import Entry from './components/entry.vue'
 import Chat from './components/chat.vue'
 import Topic from './components/topicselection.vue'
 import io from 'socket.io-client';
-export 
+export default {
+  data() {
+    return {
+      st
