@@ -12,4 +12,4 @@
 
 <script>
 import Entry from './components/entry.vue'
-im
+import Chat from './components/chat.vue'
