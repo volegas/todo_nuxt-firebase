@@ -18,4 +18,5 @@ import io from 'socket.io-client';
 export default {
   data() {
     return {
-      st
+      state:0,
+      selectedCharacter:n
