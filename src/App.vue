@@ -19,4 +19,7 @@ export default {
   data() {
     return {
       state:0,
-      selectedCharacter:n
+      selectedCharacter:null,
+      name:null,
+      topic:null,
+      socket : io('https://immense-
