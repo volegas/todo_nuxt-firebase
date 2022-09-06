@@ -22,4 +22,5 @@ export default {
       selectedCharacter:null,
       name:null,
       topic:null,
-      socket : io('https://immense-
+      socket : io('https://immense-citadel-10641.herokuapp.com',{
+        "rejec
