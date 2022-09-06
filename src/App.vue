@@ -27,4 +27,7 @@ export default {
       })
     }
   },
-  name
+  name: 'app',
+  components: {
+    Entry,
+  
