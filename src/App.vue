@@ -23,4 +23,8 @@ export default {
       name:null,
       topic:null,
       socket : io('https://immense-citadel-10641.herokuapp.com',{
-        "rejec
+        "rejectUnauthorized" : false
+      })
+    }
+  },
+  name
