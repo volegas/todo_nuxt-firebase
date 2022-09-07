@@ -35,4 +35,5 @@ export default {
   },
   methods: {
     updateCharacter(params) {
-      this.selectedCharacte
+      this.selectedCharacter = params.character;
+      this.name = p
