@@ -36,4 +36,6 @@ export default {
   methods: {
     updateCharacter(params) {
       this.selectedCharacter = params.character;
-      this.name = p
+      this.name = params.name;
+      this.state = 2;
+      conso
