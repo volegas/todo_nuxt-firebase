@@ -34,4 +34,5 @@ export default {
     Topic
   },
   methods: {
-    upda
+    updateCharacter(params) {
+      this.selectedCharacte
