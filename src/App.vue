@@ -30,4 +30,8 @@ export default {
   name: 'app',
   components: {
     Entry,
-  
+    Chat,
+    Topic
+  },
+  methods: {
+    upda
