@@ -38,4 +38,4 @@ export default {
       this.selectedCharacter = params.character;
       this.name = params.name;
       this.state = 2;
-      conso
+      console.log('this.selectedCharacter',this.sel
