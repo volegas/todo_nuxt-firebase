@@ -38,4 +38,7 @@ export default {
       this.selectedCharacter = params.character;
       this.name = params.name;
       this.state = 2;
-      console.log('this.selectedCharacter',this.sel
+      console.log('this.selectedCharacter',this.selectedCharacter);
+    },
+    updateTopic(params) {
+      th
