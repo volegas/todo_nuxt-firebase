@@ -41,4 +41,5 @@ export default {
       console.log('this.selectedCharacter',this.selectedCharacter);
     },
     updateTopic(params) {
-      th
+      this.topic = 'The one where ' + params;
+      l
