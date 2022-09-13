@@ -44,4 +44,6 @@ export default {
       this.topic = 'The one where ' + params;
       let topicObj = {
         isTopic:true, 
-      
+        topic:this.topic
+      }
+      this.
