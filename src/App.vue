@@ -42,4 +42,6 @@ export default {
     },
     updateTopic(params) {
       this.topic = 'The one where ' + params;
-      l
+      let topicObj = {
+        isTopic:true, 
+      
