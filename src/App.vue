@@ -47,4 +47,8 @@ export default {
         topic:this.topic
       }
       this.state = 1;
-      this.socket.emit('SEND_MES
+      this.socket.emit('SEND_MESSAGE', topicObj);
+    }
+  },
+  mounted() {
+     
