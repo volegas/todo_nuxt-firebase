@@ -46,4 +46,5 @@ export default {
         isTopic:true, 
         topic:this.topic
       }
-      this.
+      this.state = 1;
+      this.socket.emit('SEND_MES
