@@ -51,4 +51,5 @@ export default {
     }
   },
   mounted() {
-     
+      this.socket.on('MESSAGE', (data) => {
+          
