@@ -52,4 +52,5 @@ export default {
   },
   mounted() {
       this.socket.on('MESSAGE', (data) => {
-          
+          if(data.isTopic) {
+              this
