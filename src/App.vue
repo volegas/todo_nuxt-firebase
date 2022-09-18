@@ -57,4 +57,11 @@ export default {
               this.topic = data.topic;
           } 
       });
- 
+  }
+}
+
+</script>
+
+<style>
+
+</style>
