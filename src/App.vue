@@ -54,4 +54,7 @@ export default {
       this.socket.on('MESSAGE', (data) => {
           if(data.isTopic) {
               this.state = 1;
-              this.to
+              this.topic = data.topic;
+          } 
+      });
+ 
