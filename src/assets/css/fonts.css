@@ -1,4 +1,7 @@
 
 @font-face {
     font-family: 'gabriel_weiss_friends_fontRg';
-    src: url('./.././fonts/gabrwffr.woff') format('wo
+    src: url('./.././fonts/gabrwffr.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
