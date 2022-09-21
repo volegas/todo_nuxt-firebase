@@ -95,3 +95,46 @@ export default {
                 1:'Your text is now getting ' + this.characterMapping[this.character] + '-fied',
                 2:'Your text has been successfully ' + this.characterMapping[this.character] + '-fied'
             }
+            return labelText[this.labelState]
+        }
+    },
+    watch: {
+        messages: function() {
+            this.$refs.messageView.scrollTop = this.$refs.messageView.scrollHeight - this.$refs.messageView.clientHeight;
+        },
+        onlineUsers: function() {
+            console.log(this.onlineUsers.length)
+        }
+    },
+    methods: {
+        sendMessage(e) {
+            e.preventDefault();
+            let msgObj = {
+                character: this.characterName,
+                user: this.name,
+                message: this.message
+            }
+            this.socket.emit('SEND_MESSAGE', msgObj);
+            //this.messages = [...this.messages, msgObj];
+            this.message = '';
+            this.labelState = 1;
+        },
+         chatBubbleStyle(index) {
+            let margin = '0px';
+            if(this.messages[index-1] && this.messages[index-1].user == this.messages[index].user) {
+                margin = '1px'
+            } else {
+                margin = '10px'
+            }
+            if(this.messages[index].user == this.characterName)   {
+                return {
+                    'display': 'block',
+                    'position': 'relative',
+                    'float':'right',
+                    'clear': 'both',
+                    'margin-top':margin
+                };
+            } else {
+                return {
+                    'display': 'block',
+                    'position': 'relative',
