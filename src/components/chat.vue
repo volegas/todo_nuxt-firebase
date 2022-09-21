@@ -138,3 +138,58 @@ export default {
                 return {
                     'display': 'block',
                     'position': 'relative',
+                    'float':'left',
+                    'clear': 'both',
+                    'margin-top':margin
+                };
+            }
+        }
+    },
+    mounted() {
+        let introObj = {
+            intro:true, 
+            user:this.characterMapping[this.character],
+            name:this.name,
+            fromChat:true
+        }
+        this.socket.emit('SEND_MESSAGE', introObj);
+        this.socket.emit('SEND_MESSAGE', {
+            fetchUsers:true,
+            fromChat:true
+        });
+        this.socket.emit('SEND_MESSAGE', {
+            fetchMessages:true,
+            fromChat:true
+        });
+        this.socket.on('MESSAGE', (data) => {
+            if(data.intro) {
+                for(let i=0;i<data.users.length;i++) {
+                    let exists = false;
+                    for(let j=0;j<this.onlineUsers.length;j++) {
+                        if(data.users[i].user == this.onlineUsers[j].user) {
+                            exists = true;
+                        }
+                    }
+                    if(!exists) {
+                        this.onlineUsers.push(data.users[i])
+                    }
+                }
+                //this.onlineUsers = this.onlineUsers.concat(data.users);
+            } else {
+                if(data.reset) {
+                    this.onlineUsers = data.users;
+                } else {
+                    console.log('messages',data)
+                    if(data.initalLoad && data.messages && data.messages.length) {
+                        this.messages = data.messages
+                    } else {
+                        if(data.message) {
+                            this.messages = [...this.messages, data];
+                        }
+                        if(data.character == this.characterName) {
+                            data.self = true;
+                            this.labelState = 2;
+                            setTimeout(() =>{
+                                this.labelState = 0;
+                            },2000)
+                        }
