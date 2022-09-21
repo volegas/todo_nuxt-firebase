@@ -41,3 +41,57 @@
         </div>
   </div>
 </template>
+
+<script>
+import chatbubble from './chatbubble.vue'
+export default {
+    data() {
+        return {
+            user: '',
+            message: '',
+            messages: [],
+            characterMapping: {
+                0:'Chandler',
+                1:'Joey',
+                2:'Monica',
+                3:'Phoebe',
+                4:'Rachel',
+                5:'Ross'
+            },
+            characters : [{
+                    src:'/monica.png',
+                    name:'Chandler'
+                }, {
+                    src:'/joey.png',
+                    name:'Joey'
+                }, {
+                    src:'/monica.png',
+                    name:'Monica'
+                }, {
+                    src:'/phoebe.png',
+                    name:'Phoebe'
+                }, {
+                    src:'/rachel.png',
+                    name:'Rachel'
+                }, {
+                    src:'/ross.png',
+                    name:'Ross'
+                }],
+            onlineUsers: [],
+            labelState: 0
+        }
+    },
+    components: {
+        chatbubble
+    },
+    props:['character','name','socket','topic'],
+    computed: {
+        characterName() {
+            return this.characterMapping[this.character]
+        },
+        displayText() {
+            let labelText = {
+                0:'All you text will be ' + this.characterMapping[this.character] + '-fied',
+                1:'Your text is now getting ' + this.characterMapping[this.character] + '-fied',
+                2:'Your text has been successfully ' + this.characterMapping[this.character] + '-fied'
+            }
