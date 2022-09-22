@@ -227,3 +227,65 @@ export default {
         font-size: 12px;
     }
     .textmod {
+        font-family: "friendsfont";
+        font-size: 25px;
+        font-weight: 20;
+    }
+    .main {
+        height: 100vh;
+    }
+    .chatinfo {
+        display: inline-block;
+        width: 40%;
+        height: 100vh;
+        position: relative;
+        background-color: rgb(255, 255, 255);
+    }
+    .chatscreen {
+        display: inline-block;
+        width: 60%;
+        height: 100vh;
+        background-color: #1c1c1b;
+        vertical-align: top;
+        color: rgb(255, 253, 244);
+        overflow: hidden;
+    }
+    .heading {
+        height: 10vh;
+    }
+    .headingText {
+        text-align: center;
+         
+    }
+    .separatorChat {
+        margin-right: 0px;
+        margin-left: 20px;
+        height: 0.9px;
+        width: 95%;
+        background-color:#4b4b4b;
+        margin-bottom: 40px;
+    }
+    .chats {
+        height: 80vh;
+        overflow: auto;
+        -webkit-overflow-scrolling: touch;
+        -ms-overflow-style: none;
+    }
+    .chats::-webkit-scrollbar {
+        display: none;
+    }
+    .message {
+        padding-left: 30px;
+        padding-right: 30px;
+        height: 20vh;
+        vertical-align: end;
+    }
+    .displayprompt {
+        margin-bottom: 10px;
+        font-size: 14px;
+        font-weight: 100;
+    }
+    .heading {
+        margin-top: 30vh;
+        margin-right: 40px;
+    }
