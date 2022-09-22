@@ -289,3 +289,50 @@ export default {
         margin-top: 30vh;
         margin-right: 40px;
     }
+    .userContainer {
+        margin-top: 30px;
+        margin-left: 13vw;
+    }
+    .dot {
+        height: 10px;
+        width: 10px;
+        background-color: rgb(65, 65, 65);
+        border-radius: 50%;
+        display: inline-block;
+        margin-right: 20px;
+    }
+    .username {
+        display: inline-block;
+    }
+    #custom {
+        border: none;
+        background: transparent;
+        border: 1px solid;
+        border-radius: '100px';
+        border-color:#858585
+    }
+    .separator {
+        background-color: rgb(15, 80, 201);
+        height: 5px;
+        display: block;
+        margin-bottom: 40px;
+    }
+    .character-image {
+        display: inline-block;
+        width: 50px;
+        height: 50px;
+    }
+    img {
+        max-width: 100%;
+        max-height: 100%;
+    }
+    .userInfo {
+        margin-top: 40px;
+        background-color: rgb(203, 220, 253);
+        margin-right: 40px;
+    }
+    .info {
+        display: inline-block;
+        margin-left: 20px;
+    }
+</style>
