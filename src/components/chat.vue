@@ -193,3 +193,37 @@ export default {
                                 this.labelState = 0;
                             },2000)
                         }
+                    }
+                }
+            }
+            // you can also do this.messages.push(data)
+        });
+    }
+}
+</script>
+
+<style scoped>
+@font-face {
+        font-family: 'friendsfont';
+        src: url("./../assets/fonts/gabrwffr.woff");
+        font-weight: normal;
+        font-style: normal;
+    }
+    @font-face {
+        font-family: 'montserrat';
+        src: url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
+        font-weight: normal;
+        font-style: normal;
+    }
+    .mont {
+        font-family: "montserrat";
+        font-weight: 800;
+        font-size: 16px;
+        color: rgb(34, 34, 34);
+    }
+    .montSm {
+        font-family: "montserrat";
+        font-weight: 500;
+        font-size: 12px;
+    }
+    .textmod {
