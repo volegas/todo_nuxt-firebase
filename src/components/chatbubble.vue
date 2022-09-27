@@ -5,3 +5,5 @@
                 <div v-bind:style="bubbleStyle" class="bubble">
                         <div v-bind:style="colourStyle">
                             <h6 v-if ="!this.message.self">{{message.user}}</h6>
+                        </div>
+   
