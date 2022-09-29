@@ -7,4 +7,5 @@
                             <h6 v-if ="!this.message.self">{{message.user}}</h6>
                         </div>
                         <div>
-                           
+                            {{message.message}}
+                      
