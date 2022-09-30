@@ -13,4 +13,7 @@
             </div>
         </div>
     </div>
-</templa
+</template>
+<script>
+export default {
+    data
