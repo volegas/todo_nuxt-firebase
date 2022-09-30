@@ -8,4 +8,6 @@
                         </div>
                         <div>
                             {{message.message}}
-                      
+                        </div>
+                </div>
+        
