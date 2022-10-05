@@ -21,4 +21,5 @@ export default {
             colourmapping: {
                 'Chandler': '#d12725',
                 'Joey': '#00b8eb',
-             
+                'Monica': '#d12725',
+                'P
