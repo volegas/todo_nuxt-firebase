@@ -20,4 +20,5 @@ export default {
         return {
             colourmapping: {
                 'Chandler': '#d12725',
-  
+                'Joey': '#00b8eb',
+             
