@@ -18,4 +18,6 @@
 export default {
     data() {
         return {
-            colourmap
+            colourmapping: {
+                'Chandler': '#d12725',
+  
