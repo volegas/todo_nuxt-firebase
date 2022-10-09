@@ -22,4 +22,5 @@ export default {
                 'Chandler': '#d12725',
                 'Joey': '#00b8eb',
                 'Monica': '#d12725',
-                'P
+                'Phoebe': '#fbbe15',
+                'Rachel':'#00b8eb',
