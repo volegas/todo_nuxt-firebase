@@ -24,3 +24,5 @@ export default {
                 'Monica': '#d12725',
                 'Phoebe': '#fbbe15',
                 'Rachel':'#00b8eb',
+                'Ross': '#fbbe15'
+         
