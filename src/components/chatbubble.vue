@@ -29,3 +29,5 @@ export default {
         }
     },
     name:'chatbubble',
+    props:['message'],
+    computed: {
