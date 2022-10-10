@@ -25,4 +25,7 @@ export default {
                 'Phoebe': '#fbbe15',
                 'Rachel':'#00b8eb',
                 'Ross': '#fbbe15'
-         
+            },
+        }
+    },
+    name:'chatbubble',
