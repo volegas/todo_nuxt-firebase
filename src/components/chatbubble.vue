@@ -31,3 +31,5 @@ export default {
     name:'chatbubble',
     props:['message'],
     computed: {
+        bubbleStyle() {
+            if(this.
