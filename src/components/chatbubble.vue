@@ -35,3 +35,4 @@ export default {
             if(this.message.self)   {
                 return {
                     'border': '1px solid',
+                    'border-color':'#f
