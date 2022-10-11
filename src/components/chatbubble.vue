@@ -33,4 +33,5 @@ export default {
     computed: {
         bubbleStyle() {
             if(this.message.self)   {
-                re
+                return {
+                    'border': '1px solid',
