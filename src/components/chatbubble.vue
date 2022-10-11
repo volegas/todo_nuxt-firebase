@@ -32,4 +32,5 @@ export default {
     props:['message'],
     computed: {
         bubbleStyle() {
-            if(this.
+            if(this.message.self)   {
+                re
