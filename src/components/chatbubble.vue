@@ -37,4 +37,6 @@ export default {
                     'border': '1px solid',
                     'border-color':'#f0e911',
                     'border-radius': '5px',
-                    'colour':'#ffffff
+                    'colour':'#ffffff'
+                };
+            } 
