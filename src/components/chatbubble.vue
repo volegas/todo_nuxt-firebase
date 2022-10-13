@@ -42,4 +42,5 @@ export default {
             } else {
                 return {
                     'border': '1px solid',
+                    'border-color':'#595959',
                     'bo
