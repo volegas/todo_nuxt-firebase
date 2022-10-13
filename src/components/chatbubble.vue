@@ -41,4 +41,5 @@ export default {
                 };
             } else {
                 return {
-                  
+                    'border': '1px solid',
+                    'bo
