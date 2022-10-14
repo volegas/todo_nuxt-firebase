@@ -43,4 +43,5 @@ export default {
                 return {
                     'border': '1px solid',
                     'border-color':'#595959',
-                    'bo
+                    'border-radius': '5px',
+                    '
