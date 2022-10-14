@@ -46,4 +46,7 @@ export default {
                     'border-radius': '5px',
                     'colour':'#ffffff'
                 };
-     
+            }
+        },
+        colourStyle() {
+ 
