@@ -44,4 +44,6 @@ export default {
                     'border': '1px solid',
                     'border-color':'#595959',
                     'border-radius': '5px',
-                    '
+                    'colour':'#ffffff'
+                };
+     
