@@ -49,4 +49,5 @@ export default {
             }
         },
         colourStyle() {
- 
+            return {
+                'color':t
