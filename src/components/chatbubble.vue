@@ -50,4 +50,4 @@ export default {
         },
         colourStyle() {
             return {
-                'color':t
+                'color':this.colourmapping[this.message.chara
