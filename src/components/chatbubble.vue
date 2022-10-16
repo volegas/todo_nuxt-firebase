@@ -54,4 +54,8 @@ export default {
             }
         }
     },
-    components:
+    components: {
+    }
+}
+</script>
+<style scoped>
