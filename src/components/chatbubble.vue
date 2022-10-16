@@ -60,4 +60,8 @@ export default {
 </script>
 <style scoped>
     .container {
-        margin-botto
+        margin-bottom:20px;
+    }
+    .bubbleC {
+    }
+ 
