@@ -66,4 +66,6 @@ export default {
     }
     .bubble {
         display: inline-block;
+        padding-left: 20px;
+        padding-right: 20px;
         
