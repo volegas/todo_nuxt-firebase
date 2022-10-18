@@ -64,4 +64,6 @@ export default {
     }
     .bubbleC {
     }
- 
+    .bubble {
+        display: inline-block;
+        
