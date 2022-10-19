@@ -68,4 +68,6 @@ export default {
         display: inline-block;
         padding-left: 20px;
         padding-right: 20px;
-        
+        padding-top: 5px;
+        padding-bottom: 5px;
+ 
