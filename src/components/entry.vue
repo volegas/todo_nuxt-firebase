@@ -1,3 +1,5 @@
 <template>
     <div class="container-fluid full econtainer">
-        <div class="marg
+        <div class="marginSet">
+        </div>
+        <div class="he
