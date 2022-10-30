@@ -3,4 +3,5 @@
         <div class="marginSet">
         </div>
         <div class="headContainer">
-            <h2 class="headingText t
+            <h2 class="headingText textmod"> {{topic}} </h2>
+           
