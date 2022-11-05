@@ -8,4 +8,5 @@
         </div>
         <div class="mainContainer">
             <div class="headContainer">
-                <h4 class="mont"> Who would you like your 
+                <h4 class="mont"> Who would you like your words to be twisted by? </h4>
+            <
