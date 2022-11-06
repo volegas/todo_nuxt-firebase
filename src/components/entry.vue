@@ -10,4 +10,5 @@
             <div class="headContainer">
                 <h4 class="mont"> Who would you like your words to be twisted by? </h4>
             </div>
-            <div class="charCont
+            <div class="charContainer">
+                <div class=
