@@ -11,4 +11,4 @@
                 <h4 class="mont"> Who would you like your words to be twisted by? </h4>
             </div>
             <div class="charContainer">
-                <div class=
+                <div class="characters" v-for="(char,index) in chara
