@@ -12,4 +12,4 @@
             </div>
             <div class="charContainer">
                 <div class="characters" v-for="(char,index) in characters" :key="index">
-                    <div class="character-card"  @mouseover="transf
+                    <div class="character-card"  @mouseover="transformButtom(1,index)" @mouseout="transformB
