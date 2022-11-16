@@ -15,4 +15,5 @@
                     <div class="character-card"  @mouseover="transformButtom(1,index)" @mouseout="transformButtom(2,index)" @click="selectcharacter(index)" :class="{active: activeItem === index}">
                         <div class="selector">
                         </div>
-                  
+                        <div>
+                   
