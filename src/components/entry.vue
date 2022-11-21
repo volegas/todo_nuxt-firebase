@@ -16,4 +16,4 @@
                         <div class="selector">
                         </div>
                         <div>
-                   
+                            <div class="alert" v-if="char
