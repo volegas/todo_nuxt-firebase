@@ -17,4 +17,5 @@
                         </div>
                         <div>
                             <div class="alert" v-if="char.taken">
-                               
+                                Unavailable
+                       
