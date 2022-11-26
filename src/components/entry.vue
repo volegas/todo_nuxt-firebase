@@ -19,4 +19,5 @@
                             <div class="alert" v-if="char.taken">
                                 Unavailable
                             </div>
-                       
+                            <div class="character-image">
+           
