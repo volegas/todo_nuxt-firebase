@@ -21,4 +21,5 @@
                             </div>
                             <div class="character-image">
                                 <img :src="char.src">
- 
+                            </div>
+           
