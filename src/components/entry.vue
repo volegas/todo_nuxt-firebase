@@ -22,4 +22,5 @@
                             <div class="character-image">
                                 <img :src="char.src">
                             </div>
-                            <div class="character-nam
+                            <div class="character-name">
+                                <div class=
