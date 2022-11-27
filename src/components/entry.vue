@@ -23,4 +23,5 @@
                                 <img :src="char.src">
                             </div>
                             <div class="character-name">
-                                <div class=
+                                <div class="montSm">
+                                    {{c
