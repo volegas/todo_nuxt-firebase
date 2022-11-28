@@ -25,4 +25,6 @@
                             <div class="character-name">
                                 <div class="montSm">
                                     {{char.name}}
-                                </div
+                                </div>
+                            </div>
+                    
