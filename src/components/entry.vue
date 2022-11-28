@@ -27,4 +27,6 @@
                                     {{char.name}}
                                 </div>
                             </div>
-                    
+                        </div>
+                    </div>
+      
