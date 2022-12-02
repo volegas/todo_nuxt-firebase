@@ -36,4 +36,4 @@
                 <input type="text" autocomplete="off" v-model="name" class="form-control set1" id="custom">
             </div>
             <div class="buttonContainer">
-                <di
+                <div class="button" v-bind:style="buttonClass" @clic
