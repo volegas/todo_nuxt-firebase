@@ -35,4 +35,5 @@
                 <h4 class="set mont"> What are you called by your friends? </h4>
                 <input type="text" autocomplete="off" v-model="name" class="form-control set1" id="custom">
             </div>
-            
+            <div class="buttonContainer">
+                <di
