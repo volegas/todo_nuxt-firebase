@@ -37,4 +37,6 @@
             </div>
             <div class="buttonContainer">
                 <div class="button" v-bind:style="buttonClass" @click="nextScreen()">
-                    <p> Get
+                    <p> Get started </p>
+                </div>
+           
