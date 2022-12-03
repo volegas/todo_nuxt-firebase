@@ -39,4 +39,7 @@
                 <div class="button" v-bind:style="buttonClass" @click="nextScreen()">
                     <p> Get started </p>
                 </div>
-           
+            </div>
+        </div>
+    </div>
+</templ
