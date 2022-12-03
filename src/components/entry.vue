@@ -47,4 +47,5 @@
     export default {
         data() {
             return {
- 
+                characters : [{
+   
