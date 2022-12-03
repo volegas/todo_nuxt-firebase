@@ -42,4 +42,7 @@
             </div>
         </div>
     </div>
-</templ
+</template>
+<script>
+    export default {
+     
