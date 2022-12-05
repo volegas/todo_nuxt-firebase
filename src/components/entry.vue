@@ -48,4 +48,5 @@
         data() {
             return {
                 characters : [{
-   
+                    src:'/chandler.png',
+           
