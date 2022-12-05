@@ -49,4 +49,6 @@
             return {
                 characters : [{
                     src:'/chandler.png',
-           
+                    name:'Chandler'
+                }, {
+  
