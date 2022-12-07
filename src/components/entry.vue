@@ -52,4 +52,6 @@
                     name:'Chandler'
                 }, {
                     src:'/joey.png',
-     
+                    name:'Joey'
+                }, {
+   
