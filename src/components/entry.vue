@@ -58,4 +58,6 @@
                     name:'Monica'
                 }, {
                     src:'/phoebe.png',
-              
+                    name:'Phoebe'
+                }, {
+      
