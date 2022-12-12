@@ -60,4 +60,5 @@
                     src:'/phoebe.png',
                     name:'Phoebe'
                 }, {
-      
+                    src:'/rachel.png',
+         
