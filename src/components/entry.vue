@@ -64,4 +64,5 @@
                     name:'Rachel'
                 }, {
                     src:'/ross.png',
- 
+                    name:'Ross'
+       
