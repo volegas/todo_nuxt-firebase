@@ -65,4 +65,5 @@
                 }, {
                     src:'/ross.png',
                     name:'Ross'
-       
+                }],
+                activeItem: null,
