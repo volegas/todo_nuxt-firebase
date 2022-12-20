@@ -69,4 +69,6 @@
                 activeItem: null,
                 pickedCharacter: null,
                 buttonState:0,
-            
+                name:'',
+                onlineUsers:[]
+   
