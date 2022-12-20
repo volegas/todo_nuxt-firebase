@@ -67,4 +67,6 @@
                     name:'Ross'
                 }],
                 activeItem: null,
-                pickedCharacter: null
+                pickedCharacter: null,
+                buttonState:0,
+            
