@@ -73,4 +73,6 @@
                 onlineUsers:[]
             }
         },
-        props:['socket','top
+        props:['socket','topic'],
+        computed: {
+            butt
