@@ -71,4 +71,6 @@
                 buttonState:0,
                 name:'',
                 onlineUsers:[]
-   
+            }
+        },
+        props:['socket','top
