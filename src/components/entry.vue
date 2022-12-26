@@ -75,4 +75,5 @@
         },
         props:['socket','topic'],
         computed: {
-            butt
+            buttonClass() {
+                cons
