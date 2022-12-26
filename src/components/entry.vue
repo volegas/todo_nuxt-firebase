@@ -76,4 +76,5 @@
         props:['socket','topic'],
         computed: {
             buttonClass() {
-                cons
+                console.log('buttonstate',this.buttonState)
+     
