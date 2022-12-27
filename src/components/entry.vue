@@ -78,4 +78,5 @@
             buttonClass() {
                 console.log('buttonstate',this.buttonState)
                 if(this.name.length != 0 && this.pickedCharacter) {
-                    ret
+                    return {
+                        'opacity':'1'
