@@ -77,4 +77,4 @@
         computed: {
             buttonClass() {
                 console.log('buttonstate',this.buttonState)
-     
+                if(this.name.length != 0 &&
