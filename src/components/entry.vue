@@ -77,4 +77,5 @@
         computed: {
             buttonClass() {
                 console.log('buttonstate',this.buttonState)
-                if(this.name.length != 0 &&
+                if(this.name.length != 0 && this.pickedCharacter) {
+                    ret
