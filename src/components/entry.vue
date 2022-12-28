@@ -80,3 +80,5 @@
                 if(this.name.length != 0 && this.pickedCharacter) {
                     return {
                         'opacity':'1'
+                    }
+                }
