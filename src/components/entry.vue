@@ -81,4 +81,5 @@
                     return {
                         'opacity':'1'
                     }
-                }
+                } else {
+                    return {
