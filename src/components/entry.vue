@@ -84,4 +84,7 @@
                 } else {
                     return {
                         'opacity':'0.1'
+                    }
+                }
+            }
   
