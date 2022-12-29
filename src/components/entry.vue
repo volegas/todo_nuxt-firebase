@@ -89,4 +89,5 @@
             }
         },
         methods: {
-          
+            selectcharacter(index) {
+                c
