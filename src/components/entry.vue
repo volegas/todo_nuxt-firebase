@@ -90,4 +90,5 @@
         },
         methods: {
             selectcharacter(index) {
-                console.log('index',index,this.characters[inde
+                console.log('index',index,this.characters[index]);
+                if(!this.characters[index].t
