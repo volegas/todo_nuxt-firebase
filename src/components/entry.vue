@@ -90,4 +90,4 @@
         },
         methods: {
             selectcharacter(index) {
-                c
+                console.log('index',index,this.characters[inde
