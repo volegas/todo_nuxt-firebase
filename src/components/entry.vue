@@ -94,4 +94,6 @@
                 if(!this.characters[index].taken) {
                     this.pickedCharacter = index;
                     this.activeItem = index;
-         
+                }
+            },
+       
