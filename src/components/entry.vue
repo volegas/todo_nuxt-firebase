@@ -97,4 +97,5 @@
                 }
             },
             transformButtom(event,index) {
-                if(event == 1 && !this.characters[index]
+                if(event == 1 && !this.characters[index].taken && this.pickedCharacter == null) {
+    
