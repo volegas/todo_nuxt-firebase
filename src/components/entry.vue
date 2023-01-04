@@ -96,4 +96,5 @@
                     this.activeItem = index;
                 }
             },
-       
+            transformButtom(event,index) {
+               
