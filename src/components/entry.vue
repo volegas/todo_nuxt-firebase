@@ -99,4 +99,5 @@
             transformButtom(event,index) {
                 if(event == 1 && !this.characters[index].taken && this.pickedCharacter == null) {
                     this.activeItem = index;
-        
+                } 
+                if(event == 2 && th
