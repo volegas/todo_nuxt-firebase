@@ -101,4 +101,6 @@
                     this.activeItem = index;
                 } 
                 if(event == 2 && this.pickedCharacter == null) {
-                    this.ac
+                    this.activeItem = null;
+                }
+          
