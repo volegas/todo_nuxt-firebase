@@ -103,4 +103,6 @@
                 if(event == 2 && this.pickedCharacter == null) {
                     this.activeItem = null;
                 }
-          
+            },
+            nextScreen() {
+                if
