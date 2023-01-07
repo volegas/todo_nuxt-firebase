@@ -105,4 +105,5 @@
                 }
             },
             nextScreen() {
-                if(this.name.length != 0 && this.pic
+                if(this.name.length != 0 && this.pickedCharacter != null) {
+                    let
