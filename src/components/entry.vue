@@ -105,4 +105,4 @@
                 }
             },
             nextScreen() {
-                if
+                if(this.name.length != 0 && this.pic
