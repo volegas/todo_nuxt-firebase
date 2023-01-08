@@ -107,4 +107,5 @@
             nextScreen() {
                 if(this.name.length != 0 && this.pickedCharacter != null) {
                     let data = {
-                        name:this.name
+                        name:this.name,
+                        character:this.pickedC
