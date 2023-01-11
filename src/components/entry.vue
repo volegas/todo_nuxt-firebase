@@ -110,4 +110,5 @@
                         name:this.name,
                         character:this.pickedCharacter
                     }
-                    
+                    this.$emit('setCharacter',data)
+                }
