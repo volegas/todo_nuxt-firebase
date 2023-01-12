@@ -112,3 +112,6 @@
                     }
                     this.$emit('setCharacter',data)
                 }
+            }
+        },
+        mount
