@@ -114,4 +114,5 @@
                 }
             }
         },
-        mount
+        mounted() {
+            this.socket.emit('SEND_MESSA
