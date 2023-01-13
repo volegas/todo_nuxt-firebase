@@ -118,4 +118,5 @@
             this.socket.emit('SEND_MESSAGE', {
                 fetchUsers:true
             });
-            this.socket.o
+            this.socket.on('MESSAGE', (data) => {
+            if(!d
