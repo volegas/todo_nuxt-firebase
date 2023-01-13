@@ -115,4 +115,6 @@
             }
         },
         mounted() {
-            this.socket.emit('SEND_MESSA
+            this.socket.emit('SEND_MESSAGE', {
+                fetchUsers:true
+       
