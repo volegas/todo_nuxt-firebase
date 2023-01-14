@@ -119,4 +119,4 @@
                 fetchUsers:true
             });
             this.socket.on('MESSAGE', (data) => {
-            if(!d
+            if(!data.fromChat && (data.intro || data.reset)) {
