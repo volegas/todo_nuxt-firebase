@@ -121,4 +121,5 @@
             this.socket.on('MESSAGE', (data) => {
             if(!data.fromChat && (data.intro || data.reset)) {
                 for(let i=0;i<data.users.length;i++) {
-                    this.onlineUser
+                    this.onlineUsers.push(data.users[i].user);
+                   
