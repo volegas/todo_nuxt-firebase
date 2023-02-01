@@ -125,4 +125,5 @@
                    
                 }
                 for(let i=0;i<this.onlineUsers.length;i++) {
-                    for(let j=0;j<this.characters.length;j++)
+                    for(let j=0;j<this.characters.length;j++) {
+                        if(this.characters[j].name
