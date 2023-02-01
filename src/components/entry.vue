@@ -124,4 +124,5 @@
                     this.onlineUsers.push(data.users[i].user);
                    
                 }
-                for(let i
+                for(let i=0;i<this.onlineUsers.length;i++) {
+      
