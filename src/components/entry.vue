@@ -129,4 +129,7 @@
                         if(this.characters[j].name.toLowerCase() == this.onlineUsers[i].toLowerCase()) {
                             this.characters[j].taken = true;
                         }
-                    
+                    }
+                }
+            }
+            /
