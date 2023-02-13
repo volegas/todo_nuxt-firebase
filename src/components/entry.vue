@@ -137,4 +137,6 @@
         }
     }
 </script>
-<style s
+<style scoped>
+    @font-face {
+        font-family: 
