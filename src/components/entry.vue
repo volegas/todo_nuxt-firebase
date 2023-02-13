@@ -133,4 +133,8 @@
                 }
             }
             // you can also do this.messages.push(data)
+        });
         }
+    }
+</script>
+<style s
