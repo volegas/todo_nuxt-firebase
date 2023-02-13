@@ -132,4 +132,5 @@
                     }
                 }
             }
-            /
+            // you can also do this.messages.push(data)
+        }
