@@ -140,4 +140,5 @@
 <style scoped>
     @font-face {
         font-family: 'friendsfont';
-        src: url("./../assets
+        src: url("./../assets/fonts/gabrwffr.woff");
+        font-weight: normal;
