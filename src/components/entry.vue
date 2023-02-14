@@ -142,3 +142,6 @@
         font-family: 'friendsfont';
         src: url("./../assets/fonts/gabrwffr.woff");
         font-weight: normal;
+        font-style: normal;
+    }
+    @fon
