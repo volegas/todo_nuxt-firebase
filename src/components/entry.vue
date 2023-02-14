@@ -139,4 +139,5 @@
 </script>
 <style scoped>
     @font-face {
-        font-family: 
+        font-family: 'friendsfont';
+        src: url("./../assets
