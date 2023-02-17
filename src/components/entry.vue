@@ -146,4 +146,5 @@
     }
     @font-face {
         font-family: 'montserrat';
-        src: url('https://fonts.googleapis
+        src: url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
+    
