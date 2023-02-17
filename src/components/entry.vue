@@ -148,4 +148,7 @@
         font-family: 'montserrat';
         src: url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
         font-weight: normal;
-        font
+        font-style: normal;
+    }
+    .mont {
+        font-f
