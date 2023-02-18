@@ -151,4 +151,6 @@
         font-style: normal;
     }
     .mont {
-        font-f
+        font-family: "montserrat";
+        font-weight: 800;
+ 
