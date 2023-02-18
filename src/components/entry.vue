@@ -154,4 +154,6 @@
         font-family: "montserrat";
         font-weight: 800;
         font-size: 20px;
-        color: rgb
+        color: rgb(124, 124, 124);
+    }
+    .montS
