@@ -156,4 +156,6 @@
         font-size: 20px;
         color: rgb(124, 124, 124);
     }
-    .montS
+    .montSm {
+        font-family: "montserrat";
+      
