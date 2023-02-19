@@ -158,4 +158,5 @@
     }
     .montSm {
         font-family: "montserrat";
-      
+        font-weight: 500;
+        font-si
