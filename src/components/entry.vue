@@ -159,4 +159,7 @@
     .montSm {
         font-family: "montserrat";
         font-weight: 500;
-        font-si
+        font-size: 12px;
+    }
+    .mainContainer {
+        margin-top
