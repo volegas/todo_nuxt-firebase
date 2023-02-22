@@ -162,4 +162,7 @@
         font-size: 12px;
     }
     .mainContainer {
-        margin-top
+        margin-top: 50px;
+    }
+    .textmod {
+        font-family
