@@ -165,4 +165,6 @@
         margin-top: 50px;
     }
     .textmod {
-        font-family
+        font-family: "friendsfont";
+        font-size: 25px;
+   
