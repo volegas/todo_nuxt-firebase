@@ -167,4 +167,5 @@
     .textmod {
         font-family: "friendsfont";
         font-size: 25px;
-   
+        font-weight: 20;
+        color: rgb(255
