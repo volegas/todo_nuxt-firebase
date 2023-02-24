@@ -171,4 +171,7 @@
         color: rgb(255, 255, 255);
     }
     .headingText {
+        text-align: center;
+         
+    }
     
