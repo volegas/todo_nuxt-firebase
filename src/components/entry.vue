@@ -168,4 +168,7 @@
         font-family: "friendsfont";
         font-size: 25px;
         font-weight: 20;
-        color: rgb(255
+        color: rgb(255, 255, 255);
+    }
+    .headingText {
+    
