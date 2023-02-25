@@ -174,4 +174,6 @@
         text-align: center;
          
     }
-    
+    .character-card {
+        opacity: 0.3;
+   
