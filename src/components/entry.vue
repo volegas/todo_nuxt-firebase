@@ -180,3 +180,6 @@
     .set {
         margin-top: 60px;
     }
+    .set1 {
+        margin-top: 30px;
+  
