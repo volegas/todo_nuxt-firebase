@@ -176,4 +176,7 @@
     }
     .character-card {
         opacity: 0.3;
-   
+    }
+    .set {
+        margin-top: 60px;
+    }
