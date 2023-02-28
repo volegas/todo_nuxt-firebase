@@ -182,4 +182,7 @@
     }
     .set1 {
         margin-top: 30px;
-  
+    }
+    img {
+        max-width: 100%;
+        max-he
