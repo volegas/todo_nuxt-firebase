@@ -185,4 +185,7 @@
     }
     img {
         max-width: 100%;
-        max-he
+        max-height: 100%;
+    }
+    .econtainer {
+        height: 10
