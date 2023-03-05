@@ -188,4 +188,6 @@
         max-height: 100%;
     }
     .econtainer {
-        height: 10
+        height: 100vh;
+        background-color:#181817;
+    }
