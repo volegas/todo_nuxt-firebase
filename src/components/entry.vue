@@ -191,3 +191,6 @@
         height: 100vh;
         background-color:#181817;
     }
+    .characters {
+        display: inline-block;
+  
