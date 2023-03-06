@@ -193,4 +193,5 @@
     }
     .characters {
         display: inline-block;
-  
+        width: 9vw;
+        height: 14vh;
