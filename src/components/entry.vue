@@ -196,4 +196,5 @@
         width: 9vw;
         height: 14vh;
         margin-top: 30px;
-        margin-left
+        margin-left: 10px;
+        color: rgb(255, 255, 25
