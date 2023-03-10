@@ -197,4 +197,7 @@
         height: 14vh;
         margin-top: 30px;
         margin-left: 10px;
-        color: rgb(255, 255, 25
+        color: rgb(255, 255, 255);
+    }
+    .character-name {
+        ma
