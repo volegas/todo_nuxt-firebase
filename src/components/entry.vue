@@ -203,3 +203,5 @@
         margin-top: 10px;
     }
     .headContainer {
+        display: table;
+        margin: 0 au
