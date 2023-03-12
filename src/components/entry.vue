@@ -200,4 +200,6 @@
         color: rgb(255, 255, 255);
     }
     .character-name {
-        ma
+        margin-top: 10px;
+    }
+    .headContainer {
