@@ -204,4 +204,7 @@
     }
     .headContainer {
         display: table;
-        margin: 0 au
+        margin: 0 auto;
+        color: rgb(255, 255, 255);
+    }
+ 
