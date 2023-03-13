@@ -207,4 +207,6 @@
         margin: 0 auto;
         color: rgb(255, 255, 255);
     }
- 
+    .charContainer {
+       display: table;
+   
