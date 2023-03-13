@@ -209,4 +209,6 @@
     }
     .charContainer {
        display: table;
-   
+       margin: 0 auto;
+    }
+    .active {
