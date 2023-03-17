@@ -212,3 +212,6 @@
        margin: 0 auto;
     }
     .active {
+        opacity: 1;
+    }
+    .button {
