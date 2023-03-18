@@ -216,4 +216,6 @@
     }
     .button {
         border: 1px solid;
-        border-color: #f
+        border-color: #f0e911;
+        padding: 3px;
+        pad
