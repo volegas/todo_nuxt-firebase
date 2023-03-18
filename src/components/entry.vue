@@ -218,4 +218,6 @@
         border: 1px solid;
         border-color: #f0e911;
         padding: 3px;
-        pad
+        padding-left: 20px;
+        padding-right: 20px;
+   
