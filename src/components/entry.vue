@@ -220,4 +220,5 @@
         padding: 3px;
         padding-left: 20px;
         padding-right: 20px;
-   
+        display: inline-block;
+        di
