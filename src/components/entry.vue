@@ -215,3 +215,5 @@
         opacity: 1;
     }
     .button {
+        border: 1px solid;
+        border-color: #f
