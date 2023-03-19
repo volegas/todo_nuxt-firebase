@@ -223,4 +223,7 @@
         display: inline-block;
         display: table;
         margin: 0 auto;
-    
+        color: cornsilk;
+        opacity: 0.5;
+    }
+    .button
