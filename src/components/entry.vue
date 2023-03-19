@@ -226,4 +226,7 @@
         color: cornsilk;
         opacity: 0.5;
     }
-    .button
+    .buttonContainer {
+        margin-top: 50px;
+    }
+  
