@@ -230,4 +230,7 @@
         margin-top: 50px;
     }
     .marginSet {
-        height: 5
+        height: 5vh;
+    }
+    .separator {
+        ba
