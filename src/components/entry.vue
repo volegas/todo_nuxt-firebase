@@ -233,4 +233,5 @@
         height: 5vh;
     }
     .separator {
-        ba
+        background-color: rgb(15, 80, 201);
+        heig
