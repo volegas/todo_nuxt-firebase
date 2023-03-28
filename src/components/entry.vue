@@ -236,4 +236,7 @@
         background-color: rgb(15, 80, 201);
         height: 5px;
         display: block;
-        margin-b
+        margin-bottom: 40px;
+    }
+    .alert {
+        font-
