@@ -239,4 +239,5 @@
         margin-bottom: 40px;
     }
     .alert {
-        font-
+        font-family: "montserrat";
+        font-weight
