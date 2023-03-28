@@ -234,4 +234,6 @@
     }
     .separator {
         background-color: rgb(15, 80, 201);
-        heig
+        height: 5px;
+        display: block;
+        margin-b
