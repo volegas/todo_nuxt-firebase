@@ -242,4 +242,5 @@
         font-family: "montserrat";
         font-weight: 500;
         font-size: 12px;
-     
+        color: rgb(255, 255, 255);
+        mar
