@@ -244,4 +244,6 @@
         font-size: 12px;
         color: rgb(255, 255, 255);
         margin-left: -20px;
-        margin-b
+        margin-bottom: -10px;
+    }
+</style>
