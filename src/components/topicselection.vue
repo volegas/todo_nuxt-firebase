@@ -83,3 +83,45 @@ export default {
         margin-left: 10px;
     }
     .headContainer {
+        display: table;
+        margin: 0 auto;
+        color: rgb(255, 255, 255);
+        padding-left: 10px;
+        padding-right: 10px;
+    }
+    .topicContainer {
+        display: table;
+        margin: 0 auto;
+        color: rgb(255, 255, 255);
+        margin-top: 10px;
+    }
+    .button {
+        border: 3px solid;
+        border-color: #f0e911;
+        padding-top: 1px;
+        padding-bottom: 1px;
+        padding-left: 20px;
+        padding-right: 20px;
+        display: inline-block;
+        display: table;
+        margin: 0 auto;
+        color: cornsilk;
+        opacity: 0.5;
+    }
+    .buttonContainer {
+        margin-top: 20px;
+    }
+    .marginSet {
+        height: 20vh;
+    }
+    .topic {
+        display: table;
+        margin: 0 auto;
+        margin-top: 100px;
+        color: rgb(243, 243, 242);
+    }
+    .separator {
+        background-color: rgb(15, 80, 201);
+        height: 5px;
+    }
+</style>
